@@ -22,4 +22,5 @@ def click3():
     14.setPixmap(pixmap)
     comp()
 
-app QApplication([])
+app QApplication([])  
+
